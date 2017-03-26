@@ -3,7 +3,7 @@ import json
 from twilio.rest import TwilioRestClient
 
 #Dark Sky API Credentials
-ds_key = "https://api.darksky.net/forecast/abf3ee4fa6193f946ba40f8ae9b3ac6f/[COORDINATES]?exclude=currently,minutely,hourly,flags"
+ds_key = "https://api.darksky.net/forecast/[API KEY]/[COORDINATES]?exclude=currently,minutely,hourly,flags"
 
 #Twilio API Credentials
 account_sid = "XXXXXXXXXX"
