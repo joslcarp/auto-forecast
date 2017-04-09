@@ -1,3 +1,3 @@
 # auto-forecast
 
-Send weekly forecast via SMS using Dark Sky and Twilio API.  Replace authentication credentials and coordinates.  Schedule with CRON on Raspberry Pi.
+Send forecast data from Dark Sky via SMS using Twilio API.  Need to add alert and start on adding additional data
